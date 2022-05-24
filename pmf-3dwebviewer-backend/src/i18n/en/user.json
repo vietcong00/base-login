@@ -1,0 +1,14 @@
+{
+    "field": {
+        "email": "Email",
+        "password": "Password",
+        "fullName": "fullName"
+    },
+    "create": {
+        "email.duplicate": "Email already exists!",
+        "userName.duplicate": "Username already exits!"
+    },
+    "get": {
+        "wrong.id": "User does not exist!"
+    }
+}
